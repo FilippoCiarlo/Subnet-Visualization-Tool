@@ -18,8 +18,8 @@ This project provides a tool to visualize IP Subnets within a given Network. It 
 
 1. Clone the repository:
     ```
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/FilippoCiarlo/Subnet-Visualization-Tool.git
+    cd Subnet-Visualization-Tool
     ```
 
 2. Install the required libraries:
