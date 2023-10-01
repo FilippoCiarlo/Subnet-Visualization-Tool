@@ -1,7 +1,8 @@
 # Subnet Visualization Tool
 
-#### Video Demo:
-https://youtu.be/hW2rkiW1SGs
+#### Video Demo:s
+[![Demo](https://img.youtube.com/vi/hW2rkiW1SGs/maxresdefault.jpg)](https://youtu.be/hW2rkiW1SGs)
+
 
 #### Description:
 This project provides a tool to visualize IP Subnets within a given Network. It takes a network in [CIDR notation](https://it.wikipedia.org/wiki/Classless_Inter-Domain_Routing), a list of occupied Subnets, and an end prefix length to determine the depth of the subnet tree. The tool then generates a visual representation of the Subnets using the Graphviz library.
