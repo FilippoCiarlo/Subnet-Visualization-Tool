@@ -1,6 +1,6 @@
 # Subnet Visualization Tool
 
-#### Video Demo:s
+#### Video Demo:
 [![Demo](https://img.youtube.com/vi/hW2rkiW1SGs/maxresdefault.jpg)](https://youtu.be/hW2rkiW1SGs)
 
 
